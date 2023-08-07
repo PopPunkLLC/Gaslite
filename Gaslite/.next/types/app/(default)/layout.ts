@@ -1,4 +1,4 @@
-// File: /Users/erinengelmann/Gaslite/Gaslite/app/(default)/layout.tsx
+// File: /Users/harrison/Gaslite/Gaslite/app/(default)/layout.tsx
 import * as entry from '../../../../app/(default)/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
