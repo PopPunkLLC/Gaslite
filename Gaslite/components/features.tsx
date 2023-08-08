@@ -136,8 +136,8 @@ export default function Blocks() {
               </svg>
               <h4 className="h4 mb-2">Our Goal</h4>
               <p className="text-lg text-gray-400 text-center">
-                We strive to maximize gas efficiency across the Ethereum
-                ecosystem to create an elevated netweork for all.
+                We strive to maximize gas efficiency across the entire Ethereum
+                ecosystem.
               </p>
             </div>
           </div>
