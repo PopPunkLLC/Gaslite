@@ -23,15 +23,15 @@ export default function Newsletter() {
 
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
-              <h3 className="h3 text-white mb-2">Stay in the loop</h3>
-              <p className="text-pink-200 text-lg">Join our newsletter to get top news before anyone else.</p>
+              <h3 className="h3 text-white mb-2">IRL Alpha</h3>
+              <p className="text-pink-200 text-lg">Join our mailing list to learn about upcoming community events.</p>
             </div>
 
             {/* CTA form */}
             <form className="w-full lg:w-1/2">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <input type="email" className="w-full appearance-none bg-pink-700 border border-pink-500 focus:border-pink-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-pink-400" placeholder="Your best email…" aria-label="Your best email…" />
-                <a className="btn text-pink-600 bg-pink-100 hover:bg-white shadow" href="#0">Subscribe</a>
+                <a className="btn text-pink-600 bg-pink-100 hover:bg-white shadow" href="#0">Join</a>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}

@@ -26,66 +26,8 @@ export default function Footer() {
             {/* 2nd, 3rd and 4th blocks */}
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
 
-              {/* 2nd block */}
-              <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Products</h6>
-                <ul>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out"></Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">DynamicBox Flex</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Programming Forms</Link>
-                  </li>
-                </ul>
-              </div>
 
-              {/* 3rd block */}
-              <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
-                <ul>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
-                  </li>
-                </ul>
-              </div>
-
-              {/* 4th block */}
-              <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Company</h6>
-                <ul>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
-                  </li>
-                </ul>
-              </div>
-
+   
             </div>
 
           </div>
@@ -96,7 +38,7 @@ export default function Footer() {
             {/* Social links */}
             <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
               <li>
-                <Link href="www.twitter.com/gaslitegg/" className="flex justify-center items-center text-pink-600 bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full transition duration-150 ease-in-out" aria-label="Twitter">
+                <Link href="https://twitter.com/gasliteGG" className="flex justify-center items-center text-pink-600 bg-gray-800 hover:text-gray-100 hover:bg-pink-600 rounded-full transition duration-150 ease-in-out" aria-label="Twitter">
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                     <path d="M24 11.5c-.6.3-1.2.4-1.9.5.7-.4 1.2-1 1.4-1.8-.6.4-1.3.6-2.1.8-.6-.6-1.5-1-2.4-1-1.7 0-3.2 1.5-3.2 3.3 0 .3 0 .5.1.7-2.7-.1-5.2-1.4-6.8-3.4-.3.5-.4 1-.4 1.7 0 1.1.6 2.1 1.5 2.7-.5 0-1-.2-1.5-.4 0 1.6 1.1 2.9 2.6 3.2-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3.1 2.3-1.1.9-2.5 1.4-4.1 1.4H8c1.5.9 3.2 1.5 5 1.5 6 0 9.3-5 9.3-9.3v-.4c.7-.5 1.3-1.1 1.7-1.8z" />
                   </svg>
@@ -135,7 +77,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; gaslite.gg. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Pop Punk LLC. All rights reserved.</div>
 
           </div>
 

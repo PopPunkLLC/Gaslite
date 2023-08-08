@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 import VideoThumb from '@/public/images/hero-image-01.jpg'
 import ModalVideo from '@/components/modal-video'
-import Gaslite from '@/public/images/GASLITE.png'
+import GASLITE from '@/public/images/GASLITE WEB LOGO.png'
 
 export default function Hero() {
   return (
@@ -24,19 +24,20 @@ export default function Hero() {
 
         {/* Hero content */}
         <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
-          
+        
 
           {/* Section header */}
-          
+      
+      
           
 
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
         
         
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Efficient Smart Contracts.</p>
+            <p className="text-xl text-gray-400 mb-10" data-aos="fade-up" data-aos-delay="200">GASLITE.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-pink-600 hover:bg-pink-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Contact Us</a>
+                <a className="btn text-white bg-pink-600 hover:bg-pink-700 w-full mb-4 sm:w-auto sm:mb-0" href="wwww.deform.com/">Contact Us</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
 

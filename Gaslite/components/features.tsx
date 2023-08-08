@@ -7,7 +7,7 @@ export default function Blocks() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Gas Optimization Auditing.</h2>
             <p className="text-xl text-gray-400">
-              comprehensive feedback and ongoing support to ensure
+              We provide comprehensive feedback and ongoing support to ensure
               peak contract efficiency.
             </p>
           </div>
@@ -137,7 +137,7 @@ export default function Blocks() {
               <h4 className="h4 mb-2">Our Goal</h4>
               <p className="text-lg text-gray-400 text-center">
                 We strive to maximize gas efficiency across the Ethereum
-                ecosystem to create a better expereince for the entire network.
+                ecosystem to create an elevated netweork for all.
               </p>
             </div>
           </div>
