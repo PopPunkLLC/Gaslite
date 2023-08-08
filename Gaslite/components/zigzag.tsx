@@ -32,26 +32,6 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-pink-600 mb-2">gas bad</div>
                   <h3 className="h3 mb-3">What is the process for getting an audit?</h3>
                   <p className="text-xl text-gray-400 mb-4">First we need to be invited into your repo in order to review the codebase and give a quote. Then if you want to proceed we open github issues with permalinks to your contract and explicit changes to make. We recommend going through a gas audit prior to any scheduled security audits. </p>
-                  <ul className="text-lg text-gray-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Transparant pricing</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Constant communication</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Expert audits</span>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
@@ -68,26 +48,6 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-pink-600 mb-2">gas bad.</div>
                   <h3 className="h3 mb-3">What kind of projects do you work with?</h3>
                   <p className="text-xl text-gray-400 mb-4">We work with a variety of EVM compatible projects including: tokens, NFTs, DeFI, Marketplaces, etc. We will not work with any projects we think are sus.</p>
-                  <ul className="text-lg text-gray-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Excepteur sint occaecat</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Amet consectetur adipiscing elit</span>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
@@ -104,26 +64,6 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-pink-600 mb-2">gas bad.</div>
                   <h3 className="h3 mb-3">How does pricing work?</h3>
                   <p className="text-xl text-gray-400 mb-4">We look at the lines of code, complexity of code, and the timeline for completion to provide our price quotes. For larger projects we offer results-based pricing structures. </p>
-                  <ul className="text-lg text-gray-400 -mb-2">
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
-                    </li>
-                    <li className="flex items-center mb-2">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Excepteur sint occaecat</span>
-                    </li>
-                    <li className="flex items-center">
-                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                      </svg>
-                      <span>Amet consectetur adipiscing elit</span>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>

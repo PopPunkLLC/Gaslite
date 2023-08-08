@@ -55,7 +55,8 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-white bg-pink-600 hover:bg-pink-700 w-full mb-4 sm:w-auto sm:mb-0"
-                  href="wwww.deform.com/"
+                  href="https://app.deform.cc/form/da7398cb-efe0-43c5-b305-306b8e39facb/"
+                  target="_blank"
                 >
                   Contact Us
                 </a>
